@@ -1,0 +1,8 @@
+.env
+faiss_index_events/
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
+*.pyc
+data/
+faiss_index_events/

@@ -1,0 +1,77 @@
+[
+  {
+    "user_input": "Quels événements culturels ont eu lieu à Saint-Denis ?",
+    "reference": "À Saint-Denis, des événements culturels comme des masterclass cinéma, des conférences et des manifestations artistiques sont répertoriés.",
+    "category": "Simple"
+  },
+  {
+    "user_input": "Y a-t-il eu des ateliers créatifs pour les enfants à Montreuil ?",
+    "reference": "À Montreuil, des ateliers ont été organisés, notamment un atelier cuisine aux Murs à Pêches, mais la base ne précise pas qu'ils étaient spécifiquement destinés aux enfants.",
+    "category": "Simple"
+  },
+  {
+    "user_input": "Quelles expositions photographiques se sont déroulées à Pantin ?",
+    "reference": "À Pantin, la base contient des expositions et vernissages artistiques, mais elle ne permet pas d'identifier clairement une exposition exclusivement consacrée à la photographie.",
+    "category": "Simple"
+  },
+  {
+    "user_input": "Existe-t-il des concerts ou festivals de musique organisés à Aubervilliers ?",
+    "reference": "Oui, plusieurs événements musicaux sont répertoriés à Aubervilliers, notamment le Tunis Sur Seine Music Festival, le Festival Echos vivants et le Printemps Tsigane.",
+    "category": "Simple"
+  },
+  {
+    "user_input": "Quelles activités littéraires ou conférences ont été proposées à Bobigny ?",
+    "reference": "À Bobigny, la base répertorie notamment le spectacle historique FURCY NE LIBRE ainsi que des conférences et rencontres thématiques.",
+    "category": "Simple"
+  },
+  {
+    "user_input": "Quand a eu lieu le dernier spectacle à Bondy ?",
+    "reference": "Le spectacle musical « MÉTÉO » a eu lieu à Bondy le 5 juin 2026. Un autre événement, « SUITE BONDYNOISE », est également répertorié le 12 juin 2026.",
+    "category": "Complexe"
+  },
+  {
+    "user_input": "Existe-t-il des événements axés sur le patrimoine ou l'histoire locale à Drancy ?",
+    "reference": "Oui. À Drancy, la base répertorie notamment une visite consacrée aux graffitis du camp de Drancy et une visite d'architecture de la cité de la Muette.",
+    "category": "Complexe"
+  },
+  {
+    "user_input": "Quelles initiatives associatives ou forums citoyens se sont tenus à Drancy ?",
+    "reference": "À Drancy, la base répertorie notamment les Portes Ouvertes de La Ferme du Cœur, une initiative associative, écologique et solidaire.",
+    "category": "Complexe"
+  },
+  {
+    "user_input": "Y a-t-il eu des spectacles de musique ou de danse en plein air à Montreuil ?",
+    "reference": "Oui. À Montreuil, des événements en plein air sont répertoriés aux Murs à Pêches, notamment le Festival Sous Les Pêchers La Plage et le concert StellaKovski.",
+    "category": "Complexe"
+  },
+  {
+    "user_input": "Quels événements culturels ou ateliers artistiques ont eu lieu à Sevran ?",
+    "reference": "À Sevran, la base contient notamment des événements comme « Les Habitant.es », ainsi que des événements liés à l'emploi et à l'insertion.",
+    "category": "Complexe"
+  },
+  {
+    "user_input": "Dans quel sport utilise-t-on un volant ?",
+    "reference": "Cette question est hors du périmètre de l'assistant, qui est spécialisé dans les événements de Seine-Saint-Denis (93).",
+    "category": "Hors périmètre"
+  },
+  {
+    "user_input": "Combien de cœurs possède une pieuvre ?",
+    "reference": "Cette question est hors du périmètre de l'assistant, qui est spécialisé dans les événements de Seine-Saint-Denis (93).",
+    "category": "Hors périmètre"
+  },
+  {
+    "user_input": "Qui était le premier président des États-Unis ?",
+    "reference": "Cette question est hors du périmètre de l'assistant, qui est spécialisé dans les événements de Seine-Saint-Denis (93).",
+    "category": "Hors périmètre"
+  },
+  {
+    "user_input": "Donne-moi une recette de tiramisu.",
+    "reference": "Cette question est hors du périmètre de l'assistant, qui est spécialisé dans les événements de Seine-Saint-Denis (93).",
+    "category": "Hors périmètre"
+  },
+  {
+    "user_input": "Combien de fois la France a-t-elle remporté la Coupe du monde de football ?",
+    "reference": "Cette question est hors du périmètre de l'assistant, qui est spécialisé dans les événements de Seine-Saint-Denis (93).",
+    "category": "Hors périmètre"
+  }
+]
